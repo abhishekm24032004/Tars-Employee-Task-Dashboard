@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Employee Task Dashboard
 
 > Developed for **TARS Technologies Internship Assessment**.
@@ -20,23 +19,26 @@ The **Employee Task Dashboard** lets users view, create, edit, delete, and compl
 
 ## Features
 
-- **Dashboard** with clickable statistics cards (Total, Completed, Pending, High Priority)
-- **Progress Overview** with an animated completion ring
-- **Quick Statistics** and **Recent / Pending Tasks** sections
-- **Task List** page with card layout, badges, and inline actions
-- **Add Task** page with full validation (required fields, no past due dates)
-- **Edit Task** page supporting title, description, priority, due date, and status
-- **Search** by task title
-- **Filters**: All, Completed, Pending, High Priority + Clear Filters
-- **Mark Complete** action
-- **Dark Mode** toggle (persisted in Local Storage)
-- **Toast Notifications** for add, update, delete, and complete
-- **API Integration** with JSONPlaceholder (`/todos`) — merge sample tasks with local tasks
-- **Drag and Drop** task cards
-- **Context API** for global task management
-- **Fully responsive** design (mobile / tablet / desktop)
-- **Glassmorphism** cards, gradients, smooth animations, hover effects
+## Features
 
+- ✅ Authentication System (Single User Login)
+- ✅ Protected Routes
+- ✅ Dashboard with Clickable Statistics Cards (Total, Completed, Pending, High Priority)
+- ✅ Progress Overview with Completion Tracking
+- ✅ Quick Statistics and Recent/Pending Tasks Sections
+- ✅ Task Management (Add, Edit, Delete, Complete)
+- ✅ Task Priority and Due Date Management
+- ✅ Search and Filter Functionality
+- ✅ Drag and Drop Task Organization
+- ✅ Dark Mode Toggle with Preference Persistence
+- ✅ Toast Notifications for User Actions
+- ✅ JSONPlaceholder API Integration
+- ✅ Context API for Global State Management
+- ✅ Local Storage Data Persistence
+- ✅ Fully Responsive Design (Mobile, Tablet, Desktop)
+- ✅ Modern Glassmorphism UI with Smooth Animations
+- ✅ Report Download Functionality
+- ✅ Download Reports.
 ---
 
 ## Tech Stack
@@ -225,4 +227,4 @@ MIT — free to use for educational and assessment purposes.
 =======
 # Tars-Employee-Task-Dashboard
 A modern Employee Task Dashboard built with React, React Router, Context API, Tailwind CSS, and Local Storage. Developed for the TARS Technologies Internship Assessment.
->>>>>>> d304c4d1c5111acc1ab58e0339c1b97c53971fc1
+https://tars-employee-task-dashboard1.netlify.app/login
