@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Task Dashboard
 
 > Developed for **TARS Technologies Internship Assessment**.
@@ -221,3 +222,7 @@ This project demonstrates practical React skills: component architecture, hooks,
 ## License
 
 MIT — free to use for educational and assessment purposes.
+=======
+# Tars-Employee-Task-Dashboard
+A modern Employee Task Dashboard built with React, React Router, Context API, Tailwind CSS, and Local Storage. Developed for the TARS Technologies Internship Assessment.
+>>>>>>> d304c4d1c5111acc1ab58e0339c1b97c53971fc1
