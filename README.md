@@ -227,4 +227,4 @@ MIT — free to use for educational and assessment purposes.
 =======
 # Tars-Employee-Task-Dashboard
 A modern Employee Task Dashboard built with React, React Router, Context API, Tailwind CSS, and Local Storage. Developed for the TARS Technologies Internship Assessment.
-https://tars-employee-task-dashboard1.netlify.app/login
+https://tars-employee-task-dashboard1.netlify.app/
